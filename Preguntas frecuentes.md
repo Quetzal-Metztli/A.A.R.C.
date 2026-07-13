@@ -77,22 +77,29 @@ Cómo evitarías que un movimiento así termine siendo autoritario?
   
   
   Qué haría diferente tu propuesta frente al comunismo tradicional?
-	  con el marxismo clásico no mucho, diria que
+	  con el marxismo clásico no mucho, diría que
 	  no enfocarse solo en lucha obrera o campesina si no en ambas al mismo tiempo
 	  pero eso es mas un problema historico de otros movimientos
 	  otra respuesta seria que una de las intenciones del proyecto no es crear una unica organizacion si no el inspirar y ayudar a que cada quien pueda crear la suya en su entorno
    
    
    Cómo se financiaría el movimiento? 
-  
+	Al ser solo un grupo de discord no se nesesita finansacion, ya despues el proyecto cuando si nesesite finanzacion se podria por aportes voluntarios, o como otros movimientos historicamente, ejemplos: (feuentes: chatgpt por que me da peresa buscar)
+	- **El EZLN** financia buena parte de su autonomía vendiendo café orgánico de cooperativas zapatistas directamente a compradores de comercio justo internacional — es un ingreso real, no solo simbólico.
+	- **Mondragón** (España) es el ejemplo más grande del mundo de cooperativas obreras autofinanciadas — empezó chico en los años 50 y hoy es una red de cientos de cooperativas con bancos propios, todo sin depender de un solo financista externo.
+	- **Rojava** (norte de Siria) sostiene buena parte de su economía con cooperativas agrícolas y de producción local, coordinadas entre comunas — es el ejemplo contemporáneo más cercano a tu propio modelo de nodos.
 
   
   Cómo convencerías a personas que no son comunistas de participar? 
-  
+	  invitarlas para enseñarles a crear huertas caseras (autonomia agricola)
+	  o alternativas a servicios y aplicaciones de compañias tecnologicas (autonomia digital)
+	  ejemplo simple: enseñarte a como descargar tu musica para poder descargarla y asi escucharla sin internet, y ofrecer la entrada al grupo como invitado, si quieren colaboral de alguna forma aun si no comparten ideologia es ganancia y si son aviertos a escuchar sobre la ideologia mejor,
+	  
+	  ejemplo de como aplicarlo seria que un miembro creador de contenido enseñe su progreso cuidando plantas y que invite a unirse al servidor
   
   
   Qué pasaría si alguien no está de acuerdo con las decisiones del grupo?
-  
+	para cosas desiciones menorre  
    
    
    Cómo resolverían los conflictos internos?
