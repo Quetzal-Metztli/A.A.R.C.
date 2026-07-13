@@ -99,11 +99,13 @@ Cómo evitarías que un movimiento así termine siendo autoritario?
   
   
   Qué pasaría si alguien no está de acuerdo con las decisiones del grupo?
-	para cosas desiciones menorre  
-   
+	para cosas desiciones menores si alguien o un subgrupo puede simplemente actuar según su criterio, y si tiene aportes para compartir se documentan igual.
+	para desiciones plenamente incompatibles si sostiene la postura se le hace un jucio publico y se le banea por votacion (para evitar abuso de poder sobre todo)
    
    Cómo resolverían los conflictos internos?
-   
+	
+
+
    Qué papel tendría la democracia dentro del movimiento?
 
 
