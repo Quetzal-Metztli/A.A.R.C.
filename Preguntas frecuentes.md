@@ -45,7 +45,10 @@ No habría?
 	en teoría no
 
 Cómo tomarían las decisiones importantes?
-	
+	- Voto con nivel mínimo de participación (nivel 5 del bot) para decisiones y expulsiones.
+	- Cualquiera puede debatir libremente; se interviene solo ante violencia, no ante desacuerdo.
+	- **Decisiones plenamente incompatibles — ahí sí entra fisión**  
+> 	Cuando la acción de alguien choca de raíz con el proyecto (no es un matiz, es incompatibilidad real), la salida es separación, no censura ni imposición forzada — coherente con todo lo que ya venías definiendo.
 
 Qué problemas del comunismo histórico crees que tu propuesta sí resolver
 
