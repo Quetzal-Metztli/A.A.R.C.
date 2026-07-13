@@ -73,12 +73,19 @@ Cómo evitarías que un movimiento así termine siendo autoritario?
 	 expulsamos a los nazis con votaciones
 
  Cómo impedirías que alguien abuse del poder dentro de la organización (y más aún si se trata de una filial de tu movimiento, es decir que tu movimiento tenga una sección en otro país y no tengas el control total de sus dirigentes)?
-	 
+	 suena como un problema dificultad que no había pensado,  prefiero pensarlo mejor que darte una respuesta improvisada
   
   
-  Qué haría diferente tu propuesta frente al comunismo tradicional? Cómo se financiaría el movimiento? 
+  Qué haría diferente tu propuesta frente al comunismo tradicional?
+	  con el marxismo clásico no mucho, diria que
+	  no enfocarse solo en lucha obrera o campesina si no en ambas al mismo tiempo
+	  pero eso es mas un problema historico de otros movimientos
+	  otra respuesta seria que una de las intenciones del proyecto no es crear una unica organizacion si no el inspirar y ayudar a que cada quien pueda crear la suya en su entorno
+   
+   
+   Cómo se financiaría el movimiento? 
   
-  
+
   
   Cómo convencerías a personas que no son comunistas de participar? 
   
