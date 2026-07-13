@@ -27,19 +27,22 @@ Has pensado en escribir un libro?
 	 Me auto percibo como escritor
 
 
->Quiero hacer el comentario que la organización cuenta de varias faces una primera fase que es un servidor de doscord lara recibir a la gente reclutada y empezar a organizarla, una revolucionaria que es cuando se acumula suficiente influencia y recursos para poder empezar a planear seriamente, y una post revolución que seria un sistema comunista en el que estaba trabajando su teoría, en rezumen es crear comunidades auto suficientes anarcocomunisas y ente similar al estado que coordinar y planificar pero sin poder real (no tiene  capital militar o económico que para poder reprimir a las comunidades autosuficientes) y solo se encarga de infraestructura o cosas que nesesitan una organizacion mas rigorosa (ejemplo un hospital tipo 3)
+>Quiero hacer el comentario que la organización cuenta de varias faces una primera fase que es un servidor de doscord lara recibir a la gente reclutada y empezar a organizarla, una revolucionaria que es cuando se acumula suficiente influencia y recursos para poder empezar a planear seriamente, y una post revolución que seria un sistema comunista en el que estaba trabajando su teoría, en rezumen es crear comunidades auto suficientes anarcocomunisas y ente similar al estado que coordinar y planificar pero sin poder real (no tiene  capital militar o económico que para poder reprimir a las comunidades auto suficientes) y solo se encarga de infraestructura o cosas que necesitan una organización mas rigorosa (ejemplo un hospital tipo 3)
 
 
 Cómo evitarías que esa organización concentre demasiado poder?
-	Se enfoca en ser la mas horizontal posible, suponiendo que con poder te re
+	Siendo lo mas horizontal posible en cuanto decisiones importantes y transparente, se busca que la gente debata y que diga sus propuestas, que serian recolectadas y dichas por un vocero, 
+
+
 Qué diferencia a tu propuesta de otros modelos comunistas?
+	No eh hablado mucho aun del modelo comunista en si, la diferencia es que el poder de los medios de producción (y militar) no la controla el estado si no el pueblo, pero el estado se encarga de la coordinación de los medios de producción no de su gestión en si
   
 
 Qué papel tendría la propiedad privada?
-
+	las gestión de los medios de producción quedaría en manos de la clase proletaria que respondería directamente a las nesesidades de esta, tambien como meta se buscaria crear un exedente de productos que puedan ser mandados a traves de otros nodos (nodos es como se les llaman a los estados)
 
 No habría?
-
+	
 
 Cómo tomarían las decisiones importantes?
 
