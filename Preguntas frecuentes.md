@@ -21,17 +21,17 @@ Qué entiendes por soberanía digital?
 	- **Libertad 3:** Libertad de **distribuir copias de tus versiones modificadas** a terceros.
 
 Por qué la tecnología es tan importante para tu propuesta?
-
-la soberanía digital es importante en varios aspectos, tanto como ser una herramienta poderosa en cosas como comunicación, bases de datos, mapas, o varias cosas en general, enseñar a como poder crear y reproducir por ejemplo un servidor casero para ver películas escuchar música o nube de documentos puede parecer no tan importante pero es la base para enseñar a la gente a usar tecnología de verdad no solo las aplicaciones y servicios que nos entrega el capitalismo que es otro punto, la separación de servicios de pago o que benefician a empresas que cada día solo empeoran los servicio en nombre del capital
+	la soberanía digital es importante en varios aspectos, tanto como ser una herramienta poderosa en cosas como comunicación, bases de datos, mapas, o varias cosas en general, enseñar a como poder crear y reproducir por ejemplo un servidor casero para ver películas escuchar música o nube de documentos puede parecer no tan importante pero es la base para enseñar a la gente a usar tecnología de verdad no solo las aplicaciones y servicios que nos entrega el capitalismo que es otro punto, la separación de servicios de pago o que benefician a empresas que cada día solo empeoran los servicio en nombre del capital
 
 Has pensado en escribir un libro?
- 
-Me auto percibo como escritor
+	 Me auto percibo como escritor
+
+
+>Quiero hacer el comentario que la organización cuenta de varias faces una primera fase que es un servidor de doscord lara recibir a la gente reclutada y empezar a organizarla, una revolucionaria que es cuando se acumula suficiente influencia y recursos para poder empezar a planear seriamente, y una post revolución que seria un sistema comunista en el que estaba trabajando su teoría, en rezumen es crear comunidades auto suficientes anarcocomunisas y ente similar al estado que coordinar y planificar pero sin poder real (no tiene  capital militar o económico que para poder reprimir a las comunidades autosuficientes) y solo se encarga de infraestructura o cosas que nesesitan una organizacion mas rigorosa (ejemplo un hospital tipo 3)
+
 
 Cómo evitarías que esa organización concentre demasiado poder?
-
-
-
+	Se enfoca en ser la mas horizontal posible, suponiendo que con poder te re
 Qué diferencia a tu propuesta de otros modelos comunistas?
   
 
@@ -46,4 +46,69 @@ Cómo tomarían las decisiones importantes?
 
 Qué problemas del comunismo histórico crees que tu propuesta sí resolver
 
-por favor contraseña trabaja
+Qué tendría que pasar para que consideraras necesario un golpe de Estado?
+
+
+ Cómo evitarías que un movimiento así termine siendo autoritario?
+ 
+
+
+ Quién tendría el liderazgo y cómo se elegiría?
+
+ 
+
+ Cómo impedirías que alguien abuse del poder dentro de la organización (y más aún si se trata de una filial de tu movimiento, es decir que tu movimiento tenga una sección en otro país y no tengas el control total de sus dirigentes)?
+ 
+  
+  
+  Qué haría diferente tu propuesta frente al comunismo tradicional? Cómo se financiaría el movimiento? 
+  
+  
+  
+  Cómo convencerías a personas que no son comunistas de participar? 
+  
+  
+  
+  Qué pasaría si alguien no está de acuerdo con las decisiones del grupo?
+  
+   
+   
+   Cómo resolverían los conflictos internos?
+   
+   Qué papel tendría la democracia dentro del movimiento?
+
+
+Qué significa exactamente la autosuficiencia para ti? 
+
+
+Cómo se aplicaría la soberanía digital en la vida cotidiana?
+
+
+
+Qué programas o tecnologías libres consideras indispensables?
+
+
+Cómo organizarías una comunidad internacional sin perder coordinación?
+
+
+Qué tipo de personas buscas que se unan?
+
+
+
+Crees que este modelo podría aplicarse en cualquier país o depende del contexto?
+
+
+
+Qué errores históricos del comunismo quieres evitar?
+
+
+
+Cuáles serían los primeros pasos concretos para empezar el proyecto?
+
+
+
+Cómo medirías si el movimiento está teniendo éxito?
+
+
+
+Cuál es tu visión de aquí a 20 años si todo sale como lo imaginas?
