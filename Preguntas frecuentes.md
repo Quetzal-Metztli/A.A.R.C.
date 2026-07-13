@@ -1,4 +1,4 @@
-El proyecto cuenta de varias faces y respondere las preguntas siempre que pueda sobre la primera face, que es uniciar y formar una comunidad de disco
+El proyecto cuenta de varias faces y responderé las preguntas siempre que pueda sobre la primera fase, que es iniciar y formar una comunidad de discord, aunque algunas preguntas giran en torno a algo post revolucion asi que esas preguntas que no puedo responder desde la primera fase del proyecto (la fase actual) la respondere desde la fase post-capitalista hipotetica por ahora
 
 
 
@@ -64,14 +64,16 @@ Qué tendría que pasar para que consideraras necesario un golpe de Estado?
 
  Quién tendría el liderazgo y cómo se elegiría?
 	la "guia" o los "lideres" serian "voceros populares",
-	no son un cargo fijo o elejidos por votacion
+	no son un cargo fijo o elegidos por votación. surgen en los debates dentro del servidor aquellos que sobresalgan mas en las exposiciones pueden dar conferencias donde explicitamente ellos son los que tienen la voz central, para que expongan sus ideas pero también al aceptar tienen otras tareas.
+	Es la gente que, por cómo habla o qué aporta, termina siendo escuchada más que el resto de forma natural, y esa reconosimiento del los miembros es lo que les abre la puerta a ser voceros. 
+	 
 
  
 Cómo evitarías que un movimiento así termine siendo autoritario?
-	 
+	 expulsamos a los nazis con votaciones
 
  Cómo impedirías que alguien abuse del poder dentro de la organización (y más aún si se trata de una filial de tu movimiento, es decir que tu movimiento tenga una sección en otro país y no tengas el control total de sus dirigentes)?
- 
+	 
   
   
   Qué haría diferente tu propuesta frente al comunismo tradicional? Cómo se financiaría el movimiento? 
