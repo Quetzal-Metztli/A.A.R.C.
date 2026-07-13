@@ -91,16 +91,16 @@ Cómo evitarías que un movimiento así termine siendo autoritario?
 
   
   Cómo convencerías a personas que no son comunistas de participar? 
-	  invitarlas para enseñarles a crear huertas caseras (autonomia agricola)
-	  o alternativas a servicios y aplicaciones de compañias tecnologicas (autonomia digital)
-	  ejemplo simple: enseñarte a como descargar tu musica para poder descargarla y asi escucharla sin internet, y ofrecer la entrada al grupo como invitado, si quieren colaboral de alguna forma aun si no comparten ideologia es ganancia y si son aviertos a escuchar sobre la ideologia mejor,
+	  invitarlas para enseñarles a crear huertas caseras (autonomía agrícola)
+	  o alternativas a servicios y aplicaciones de compañías tecnológicas (autonomía digital)
+	  ejemplo simple: enseñarte a como descargar tu música para poder descargarla y asi escucharla sin Internet, y ofrecer la entrada al grupo como invitado, si quieren colaborar de alguna forma aun si no comparten ideología es ganancia y si son abiertos a escuchar sobre la ideología mejor,
 	  
 	  ejemplo de como aplicarlo seria que un miembro creador de contenido enseñe su progreso cuidando plantas y que invite a unirse al servidor
   
   
   Qué pasaría si alguien no está de acuerdo con las decisiones del grupo?
-	para cosas desiciones menores si alguien o un subgrupo puede simplemente actuar según su criterio, y si tiene aportes para compartir se documentan igual.
-	para desiciones plenamente incompatibles si sostiene la postura se le hace un jucio publico y se le banea por votacion (para evitar abuso de poder sobre todo)
+	para cosas decisiones menores si alguien o un subgrupo puede simplemente actuar según su criterio, y si tiene aportes para compartir se documentan igual.
+	para decisiones plenamente incompatibles si sostiene la postura se le hace un juicio publico y se le bannea por votación (para evitar abuso de poder sobre todo)
    
    Cómo resolverían los conflictos internos?
 	
