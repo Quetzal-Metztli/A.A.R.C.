@@ -1,3 +1,7 @@
+El proyecto cuenta de varias faces y respondere las preguntas siempre que pueda sobre la primera face, que es uniciar y formar una comunidad de disco
+
+
+
 Cuál es el objetivo principal de ese proyecto?
 	crear una base material y red de personas para crear una comunidad internacional, organizarse lo suficiente hasta el punto de tener la capacidad de hacer un golpe de estado, o si el sistema colapsa antes poder tener autosuficiencia para sobrevivir.
 
@@ -45,23 +49,26 @@ No habría?
 	en teoría no
 
 Cómo tomarían las decisiones importantes?
-	- Voto con nivel mínimo de participación (nivel 5 del bot) para decisiones y expulsiones.
+	- Voto con nivel mínimo de participación (se controla con un bot de xp) para decisiones y expulsiones.
 	- Cualquiera puede debatir libremente; se interviene solo ante violencia, no ante desacuerdo.
-	- **Decisiones plenamente incompatibles — ahí sí entra fisión**  
-> 	Cuando la acción de alguien choca de raíz con el proyecto (no es un matiz, es incompatibilidad real), la salida es separación, no censura ni imposición forzada — coherente con todo lo que ya venías definiendo.
+	**Decisiones plenamente incompatibles** Cuando la postura o acción de un grupo de personas en el grupo choca de raíz con el proyecto (no es un matiz de gestión, es incompatibilidad real), si insiste con su punto se le invita a que separarse del servidor en vez de forzarlo a seguir dentro por imposición o intentar disolverlo por censura. (en rezumen que se vallan a la verga con sus idea nazis)
 
 Qué problemas del comunismo histórico crees que tu propuesta sí resolver
+	la acumulación de poder del estado tomando por ejemplo al lenilismo,
+	la poca organización del anarco comunismo al hora de hacer planes mas grandes y su decision de no tomar el poder (ejemplo el zapatismo)
 
 Qué tendría que pasar para que consideraras necesario un golpe de Estado?
+	un evento detonante como una ley que perjudique a todo el pais no solo al grupo o tener un nivel de organizacion suficiente para hacer algo al estado
 
-
- Cómo evitarías que un movimiento así termine siendo autoritario?
- 
-
+> cambie el orden original de las siguientes 2 preguntas intercambiándolas por que era mas combeniente
 
  Quién tendría el liderazgo y cómo se elegiría?
+	la "guia" o los "lideres" serian "voceros populares",
+	no son un cargo fijo o elejidos por votacion
 
  
+Cómo evitarías que un movimiento así termine siendo autoritario?
+	 
 
  Cómo impedirías que alguien abuse del poder dentro de la organización (y más aún si se trata de una filial de tu movimiento, es decir que tu movimiento tenga una sección en otro país y no tengas el control total de sus dirigentes)?
  
