@@ -39,13 +39,13 @@ Qué diferencia a tu propuesta de otros modelos comunistas?
   
 
 Qué papel tendría la propiedad privada?
-	las gestión de los medios de producción quedaría en manos de la clase proletaria que respondería directamente a las nesesidades de esta, tambien como meta se buscaria crear un exedente de productos que puedan ser mandados a traves de otros nodos (nodos es como se les llaman a los estados)
+	las gestión de los medios de producción quedaría en manos de la clase proletaria que respondería directamente a las necesidades de esta, también como meta se buscaría crear un excedente de productos que puedan ser mandados a través de otros nodos (nodos es como se les llaman a los estados)
 
 No habría?
-	
+	en teoría no
 
 Cómo tomarían las decisiones importantes?
-
+	
 
 Qué problemas del comunismo histórico crees que tu propuesta sí resolver
 
