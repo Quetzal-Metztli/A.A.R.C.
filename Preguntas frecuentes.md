@@ -40,4 +40,6 @@ No habría?
 Cómo tomarían las decisiones importantes?
 
 
-Qué problemas del comunismo histórico crees que tu propuesta sí resolvería?
+Qué problemas del comunismo histórico crees que tu propuesta sí resolver
+
+por favor contraseña trabaja
