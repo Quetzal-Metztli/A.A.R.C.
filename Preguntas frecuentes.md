@@ -107,9 +107,12 @@ Cómo resolverían los conflictos internos?
 
 
 Qué papel tendría la democracia dentro del movimiento?
+	tratar de no 
+
 
 
 Qué significa exactamente la autosuficiencia para ti? 
+	en su punto mas alto seria poder mantenerse completamente sin depender de capitalismo
 
 
 Cómo se aplicaría la soberanía digital en la vida cotidiana?

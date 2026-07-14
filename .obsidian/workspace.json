@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Preguntas frecuentes.md",
+                "file": "Quienes somos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Preguntas frecuentes"
+              "title": "Quienes somos"
             }
           }
         ]
@@ -184,11 +184,11 @@
   },
   "active": "4e5564f2dbe3b113",
   "lastOpenFiles": [
-    "Pilares quienes somos.md",
-    "Quienes somos.md",
-    "Preguntas frecuentes.md",
     "Pasted image 20260713164954.png",
+    "Quienes somos.md",
     "repuesta.md",
+    "Preguntas frecuentes.md",
+    "Pilares quienes somos.md",
     "Pilares.md",
     "A.A.R.C. Documentacion.md",
     "inbox.md",

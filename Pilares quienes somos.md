@@ -1,1 +1,0 @@
-"es simplemente un movimiento de organización social que invita a comunidades, grupos de amigos, o a cualquiera que quiera organizarse en un proyecto socialista/comunista que invita a organizarse para tener soberanía y autosuficiencia en 3 pilares principales"
