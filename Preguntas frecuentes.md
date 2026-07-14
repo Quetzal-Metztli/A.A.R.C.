@@ -62,7 +62,7 @@ Qué tendría que pasar para que consideraras necesario un golpe de Estado?
 
 > cambie el orden original de las siguientes 2 preguntas intercambiándolas por que era mas combeniente
 
- Quién tendría el liderazgo y cómo se elegiría?
+Quién tendría el liderazgo y cómo se elegiría?
 	la "guia" o los "lideres" serian "voceros populares",
 	no son un cargo fijo o elegidos por votación. surgen en los debates dentro del servidor aquellos que sobresalgan mas en las exposiciones pueden dar conferencias donde explicitamente ellos son los que tienen la voz central, para que expongan sus ideas pero también al aceptar tienen otras tareas.
 	Es la gente que, por cómo habla o qué aporta, termina siendo escuchada más que el resto de forma natural, y esa reconosimiento del los miembros es lo que les abre la puerta a ser voceros. 
@@ -72,25 +72,25 @@ Qué tendría que pasar para que consideraras necesario un golpe de Estado?
 Cómo evitarías que un movimiento así termine siendo autoritario?
 	 expulsamos a los nazis con votaciones
 
- Cómo impedirías que alguien abuse del poder dentro de la organización (y más aún si se trata de una filial de tu movimiento, es decir que tu movimiento tenga una sección en otro país y no tengas el control total de sus dirigentes)?
+Cómo impedirías que alguien abuse del poder dentro de la organización (y más aún si se trata de una filial de tu movimiento, es decir que tu movimiento tenga una sección en otro país y no tengas el control total de sus dirigentes)?
 	 suena como un problema dificultad que no había pensado,  prefiero pensarlo mejor que darte una respuesta improvisada
   
   
-  Qué haría diferente tu propuesta frente al comunismo tradicional?
+Qué haría diferente tu propuesta frente al comunismo tradicional?
 	  con el marxismo clásico no mucho, diría que
 	  no enfocarse solo en lucha obrera o campesina si no en ambas al mismo tiempo
 	  pero eso es mas un problema historico de otros movimientos
 	  otra respuesta seria que una de las intenciones del proyecto no es crear una unica organizacion si no el inspirar y ayudar a que cada quien pueda crear la suya en su entorno
    
    
-   Cómo se financiaría el movimiento? 
+Cómo se financiaría el movimiento? 
 	Al ser solo un grupo de discord no se nesesita finansacion, ya despues el proyecto cuando si nesesite finanzacion se podria por aportes voluntarios, o como otros movimientos historicamente, ejemplos: (feuentes: chatgpt por que me da peresa buscar)
 	- **El EZLN** financia buena parte de su autonomía vendiendo café orgánico de cooperativas zapatistas directamente a compradores de comercio justo internacional — es un ingreso real, no solo simbólico.
 	- **Mondragón** (España) es el ejemplo más grande del mundo de cooperativas obreras autofinanciadas — empezó chico en los años 50 y hoy es una red de cientos de cooperativas con bancos propios, todo sin depender de un solo financista externo.
 	- **Rojava** (norte de Siria) sostiene buena parte de su economía con cooperativas agrícolas y de producción local, coordinadas entre comunas — es el ejemplo contemporáneo más cercano a tu propio modelo de nodos.
 
   
-  Cómo convencerías a personas que no son comunistas de participar? 
+Cómo convencerías a personas que no son comunistas de participar? 
 	  invitarlas para enseñarles a crear huertas caseras (autonomía agrícola)
 	  o alternativas a servicios y aplicaciones de compañías tecnológicas (autonomía digital)
 	  ejemplo simple: enseñarte a como descargar tu música para poder descargarla y asi escucharla sin Internet, y ofrecer la entrada al grupo como invitado, si quieren colaborar de alguna forma aun si no comparten ideología es ganancia y si son abiertos a escuchar sobre la ideología mejor,
@@ -98,15 +98,15 @@ Cómo evitarías que un movimiento así termine siendo autoritario?
 	  ejemplo de como aplicarlo seria que un miembro creador de contenido enseñe su progreso cuidando plantas y que invite a unirse al servidor
   
   
-  Qué pasaría si alguien no está de acuerdo con las decisiones del grupo?
+Qué pasaría si alguien no está de acuerdo con las decisiones del grupo?
 	para cosas decisiones menores si alguien o un subgrupo puede simplemente actuar según su criterio, y si tiene aportes para compartir se documentan igual.
 	para decisiones plenamente incompatibles si sostiene la postura se le hace un juicio publico y se le bannea por votación (para evitar abuso de poder sobre todo)
    
-   Cómo resolverían los conflictos internos?
+Cómo resolverían los conflictos internos?
 	
 
 
-   Qué papel tendría la democracia dentro del movimiento?
+Qué papel tendría la democracia dentro del movimiento?
 
 
 Qué significa exactamente la autosuficiencia para ti? 
@@ -135,11 +135,11 @@ Qué errores históricos del comunismo quieres evitar?
 
 
 Cuáles serían los primeros pasos concretos para empezar el proyecto?
-
+	Reclutamiento de artistas, cradores de contenido, gente con conosimientos en diferentes areas
 
 
 Cómo medirías si el movimiento está teniendo éxito?
-
+	Ya hay comunidades organizándose para crear autosuficiencia y apoyándose entre varias, ademas de coordinación nacional o internacional para cosas como huelgas protestas, etc.
 
 
 Cuál es tu visión de aquí a 20 años si todo sale como lo imaginas?
