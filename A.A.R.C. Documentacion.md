@@ -8,3 +8,8 @@ Bienvenido al punto de entrada para la documentación del grupo de Acción Antis
 # Fundamentos
 
 [[Manifiesto]]
+
+# Proyectos de la comunidad
+[[FerroPlay]]
+propuesta para sustituir el modelo de plataformas de streaming como Spotify
+
