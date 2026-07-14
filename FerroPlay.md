@@ -1,6 +1,8 @@
-# Sistema Alternativo de Streaming: Una Infraestructura Justa para Creadores y Oyentes
+# Sistema Alternativo de Streaming: Una Infraestructura Justa para Creadores y Oyentes 
 
 Este proyecto no es una aplicación aislada, sino una propuesta para sustituir el modelo actual de plataformas de streaming (como Spotify) por una infraestructura que devuelva el control a los creadores y transforme la relación entre el oyente y el artista en un ecosistema de apoyo mutuo consciente.
+
+autora: #Fe
 
 ---
 
