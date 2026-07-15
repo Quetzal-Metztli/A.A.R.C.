@@ -107,7 +107,7 @@ Cómo resolverían los conflictos internos?
 
 
 Qué papel tendría la democracia dentro del movimiento?
-	tratar de no 
+	
 
 
 
