@@ -6,6 +6,8 @@ La organización social busca construir una base organizada de acuerdo a los int
 
 //a partir de aqui es solo un borrador 
 
+# Capital Digital
+La construcción y 
 
 tecnologia para tener una soberania digital llendo desde cosas simples como tener nuestra musica y poder escucharla como queramos, hazta cosas ma scomplejas como sistemas enteros
 
