@@ -11,14 +11,17 @@
             "id": "6abc94c75b41f563",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Principios farmcologicos.md",
-                "mode": "source",
-                "source": false
+                "file": "Farmacologia ramas.canvas",
+                "viewState": {
+                  "x": 330.5375781249987,
+                  "y": 214.42406250000096,
+                  "zoom": -0.5849625007211565
+                }
               },
-              "icon": "lucide-file",
-              "title": "Principios farmcologicos"
+              "icon": "lucide-layout-dashboard",
+              "title": "Farmacologia ramas"
             }
           }
         ]
@@ -184,10 +187,10 @@
   },
   "active": "6abc94c75b41f563",
   "lastOpenFiles": [
+    "Principios farmcologicos.md",
     "Pasted image 20260718100317.png",
     "Pasted image 20260718100221.png",
     "Farmacologia ramas.canvas",
-    "Principios farmcologicos.md",
     "Preguntas frecuentes.md",
     "Quienes somos.md",
     "Pilares.md",

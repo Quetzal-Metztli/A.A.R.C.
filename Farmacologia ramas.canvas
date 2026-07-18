@@ -5,11 +5,17 @@
 		{"id":"a24e5731bd045d4f","type":"text","text":"farmacocinetica","x":-320,"y":-200,"width":250,"height":60},
 		{"id":"488d009ffd7f8bed","type":"text","text":"farmacodinamia","x":-320,"y":-88,"width":250,"height":60},
 		{"id":"ba54b0d4041a20d4","type":"text","text":"farmaco epidiomiologia","x":-320,"y":160,"width":250,"height":50},
-		{"id":"563edfd458bf7b86","type":"text","text":"farmacopidemiologia","x":-320,"y":280,"width":250,"height":60},
-		{"id":"86baab5ea5819c24","type":"text","text":"","x":-320,"y":380,"width":250,"height":60},
-		{"id":"9f2d6ec8f5b40457","type":"text","text":"como trabaja el medicamento en el cuerpo","x":0,"y":-88,"width":250,"height":60},
+		{"id":"563edfd458bf7b86","type":"text","text":"farmaco,logia clinica","x":-320,"y":280,"width":250,"height":60},
+		{"id":"86baab5ea5819c24","type":"text","text":"Farmaco terapia","x":-320,"y":380,"width":250,"height":60},
 		{"id":"0f6569e05a0014d1","type":"text","text":"[[Principios farmcologicos]]","x":-1160,"y":-58,"width":250,"height":60},
-		{"id":"43ddd645542edeec","type":"text","text":"farmacologia","x":-840,"y":-58,"width":250,"height":60}
+		{"id":"43ddd645542edeec","type":"text","text":"farmacologia","x":-840,"y":-58,"width":250,"height":60},
+		{"id":"9c6a958d8e5618bc","x":60,"y":160,"width":509,"height":80,"type":"text","text":"Aplicacion del razonamiento, metodos y conocimiento epidiologicos al estudio de los usos y los efectos de los medicamentos en las poblaciones"},
+		{"id":"a04f47d21472c713","x":60,"y":493,"width":471,"height":66,"type":"text","text":"es la rama de la farmacología que estudia las normas de preinscripción de los medicamentos"},
+		{"id":"e62baf55e097c48d","x":-320,"y":499,"width":250,"height":60,"type":"text","text":"farmacografia"},
+		{"id":"a08fd97d20f4b8de","x":60,"y":280,"width":640,"height":60,"type":"text","text":"Se encargaa del estudio de las drogas en el hombre tanto sano como enfermo"},
+		{"id":"a7845ed75be7c587","x":-322,"y":620,"width":250,"height":60,"type":"text","text":"farmacolognosia"},
+		{"id":"ced02bf9a33628c5","x":60,"y":620,"width":250,"height":60,"type":"text","text":""},
+		{"id":"9f2d6ec8f5b40457","type":"text","text":"como trabaja el medicamento en el cuerpo","x":0,"y":-88,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"5d9320a04bd2b9f1","fromNode":"488d009ffd7f8bed","fromSide":"right","toNode":"9f2d6ec8f5b40457","toSide":"left"},
