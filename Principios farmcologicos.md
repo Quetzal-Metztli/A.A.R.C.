@@ -34,3 +34,8 @@ Incluye
 *Fármaco -> receptor -> activación o bloque -> cambios celulares -> respuesta farmacológica*
 
 ## Farmacocinetica
+Es la rama de la farmacología que estudia el recorrido que sigue un fármaco dentro del organismo desde que se administra hasta que se elimina
+
+Via enteral 
+ADME
+**A**bsorción -> **D**istribución -> **M**etabolismo -> **E**xcreción (o eliminación)
