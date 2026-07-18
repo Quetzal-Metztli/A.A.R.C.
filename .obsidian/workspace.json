@@ -20,28 +20,23 @@
               "icon": "lucide-file",
               "title": "Quienes somos"
             }
-          }
-        ]
-      },
-      {
-        "id": "4a9be0f557257de4",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "1c36093a471ec91d",
+            "id": "6abc94c75b41f563",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Preguntas frecuentes.md",
+                "file": "Principios farmcologicos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Preguntas frecuentes"
+              "title": "Principios farmcologicos"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -202,20 +197,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4e5564f2dbe3b113",
+  "active": "6abc94c75b41f563",
   "lastOpenFiles": [
-    "Pilares.md",
+    "Farmacos.canvas",
+    "Principios farmcologicos.md",
     "Preguntas frecuentes.md",
+    "Quienes somos.md",
+    "Pilares.md",
     "mensaje de vienvenida.md",
     "Manifiesto.md",
     "inbox.md",
     "A.A.R.C. Documentacion.md",
     "FerroPlay.md",
-    "Quienes somos.md",
     "Pasted image 20260713164954.png",
     "repuesta.md",
     "Pilares quienes somos.md",
-    "Sin título.canvas",
     "síntomas del capitalismo.md",
     "Quienes somos ^.md",
     "Quienes somos^resumen.md",
