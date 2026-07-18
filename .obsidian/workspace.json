@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 262.5
   },
   "right": {
     "id": "9f8f3796e7e6f89d",
@@ -184,6 +184,8 @@
   },
   "active": "6abc94c75b41f563",
   "lastOpenFiles": [
+    "Pasted image 20260718100317.png",
+    "Pasted image 20260718100221.png",
     "Farmacologia ramas.canvas",
     "Principios farmcologicos.md",
     "Preguntas frecuentes.md",
