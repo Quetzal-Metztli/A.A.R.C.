@@ -1,0 +1,24 @@
+{
+	"nodes":[
+		{"id":"78e8b3f015ef80c0","type":"text","text":"que hace el medicamento en el cuerpo","x":0,"y":-200,"width":250,"height":60},
+		{"id":"fd80200069e49713","type":"text","text":"farmacologia clinica","x":-320,"y":40,"width":250,"height":60},
+		{"id":"a24e5731bd045d4f","type":"text","text":"farmacocinetica","x":-320,"y":-200,"width":250,"height":60},
+		{"id":"488d009ffd7f8bed","type":"text","text":"farmacodinamia","x":-320,"y":-88,"width":250,"height":60},
+		{"id":"ba54b0d4041a20d4","type":"text","text":"farmaco epidiomiologia","x":-320,"y":160,"width":250,"height":50},
+		{"id":"563edfd458bf7b86","type":"text","text":"farmacopidemiologia","x":-320,"y":280,"width":250,"height":60},
+		{"id":"86baab5ea5819c24","type":"text","text":"","x":-320,"y":380,"width":250,"height":60},
+		{"id":"9f2d6ec8f5b40457","type":"text","text":"como trabaja el medicamento en el cuerpo","x":0,"y":-88,"width":250,"height":60},
+		{"id":"0f6569e05a0014d1","type":"text","text":"[[Principios farmcologicos]]","x":-1160,"y":-58,"width":250,"height":60},
+		{"id":"43ddd645542edeec","type":"text","text":"farmacologia","x":-840,"y":-58,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"5d9320a04bd2b9f1","fromNode":"488d009ffd7f8bed","fromSide":"right","toNode":"9f2d6ec8f5b40457","toSide":"left"},
+		{"id":"9f5b62b950943aa6","fromNode":"43ddd645542edeec","fromSide":"right","toNode":"488d009ffd7f8bed","toSide":"left"},
+		{"id":"030f804e1bfde2ca","fromNode":"43ddd645542edeec","fromSide":"right","toNode":"fd80200069e49713","toSide":"left"},
+		{"id":"f3e9347a38f9a461","fromNode":"43ddd645542edeec","fromSide":"right","toNode":"ba54b0d4041a20d4","toSide":"left"},
+		{"id":"91276985e79b4c12","fromNode":"a24e5731bd045d4f","fromSide":"right","toNode":"78e8b3f015ef80c0","toSide":"left"},
+		{"id":"7b68bb2258a87399","fromNode":"0f6569e05a0014d1","fromSide":"right","toNode":"43ddd645542edeec","toSide":"left"},
+		{"id":"159f5f24e7867c7b","fromNode":"43ddd645542edeec","fromSide":"right","toNode":"563edfd458bf7b86","toSide":"left"},
+		{"id":"5b67e3ea66532c5a","fromNode":"43ddd645542edeec","fromSide":"right","toNode":"a24e5731bd045d4f","toSide":"left"}
+	]
+}
