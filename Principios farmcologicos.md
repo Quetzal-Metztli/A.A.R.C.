@@ -9,10 +9,10 @@ Farmacocinetica
 farmacodinamica
 
 Fármaco; cualquier sustancia química que afecte al protoplasma de los seres vivos
->protoplasma; es la sustancia viva que se encuentra dentro de la celula encerrada por la membrana celular, esta compuesto por el citoplasma y el nucleo y es responsable de llevar a cabo todas las actividades vitales de la celula
+>protoplasma; es la sustancia viva que se encuentra dentro de la célula encerrada por la membrana celular, esta compuesto por el citoplasma y el núcleo y es responsable de llevar a cabo todas las actividades vitales de la célula
 
-fármaco -> modifica la actividad celular
-se tiende por lo tanto que un farmaco no origina mecanismos o reacciones desconosidas por a célula
+* fármaco ---> modifica la actividad celular
+* se tiende por lo tanto que un fármaco no origina mecanismos o reacciones desconocidas por a célula
+* Sino que el fármaco se limita a Inhibir o estimular los procesos de la propia célula 
 
-Sino que el fármaco se limita a Inhibir o estimular los procesos de la propia celula 
-
+Receptor farmacologico; cualquier macromolecula celular con la cual se liga un farmaco para iniciar sus efectos
