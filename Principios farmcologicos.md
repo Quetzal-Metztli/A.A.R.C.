@@ -38,4 +38,13 @@ Es la rama de la farmacología que estudia el recorrido que sigue un fármaco de
 
 Via enteral 
 ADME
-**A**bsorción -> **D**istribución -> **M**etabolismo -> **E**xcreción (o eliminación)
+**A**bsorción -> **D**istribución -> **M**etabolismo -> **E**xcreción (o eliminación
+
+
+
+ALFAS
+Arterias o musculo liso
+
+Betas
+Beta 1 Beats (corazone)
+Beta 2 breaths (pulmones)
