@@ -1,4 +1,4 @@
-Nuestros pilares están diseñados para **crear una verdadera** autonomía y soberanía, rompiendo los vínculos con el gran capital, esto no lo logramos guardando el conocimiento con recelo, sino haciéndolo un capital colectivo para que cualquiera en condiciones de actuar pueda replicar y lograr organizarse en sus propias condiciones materiales, **articulando este esfuerzo a través de** tres ejes fundamentales
+aNuestros pilares están diseñados para **crear una verdadera** autonomía y soberanía, rompiendo los vínculos con el gran capital, esto no lo logramos guardando el conocimiento con recelo, sino haciéndolo un capital colectivo para que cualquiera en condiciones de actuar pueda replicar y lograr organizarse en sus propias condiciones materiales, **articulando este esfuerzo a través de** tres ejes fundamentales
 
 
 # Capital Social
